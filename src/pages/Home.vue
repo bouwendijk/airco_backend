@@ -1,0 +1,1 @@
+<template><h1>MBD Klimaatbeheer App Startpagina</h1></template>

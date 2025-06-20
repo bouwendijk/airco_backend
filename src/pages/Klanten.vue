@@ -1,0 +1,1 @@
+<template><h2>Klantenbeheer</h2></template>
