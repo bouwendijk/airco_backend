@@ -1,0 +1,1 @@
+<template><nav><a href='/'>Home</a> | <a href='/klanten'>Klanten</a> | <a href='/installaties'>Installaties</a> | <a href='/storingen'>Storingen</a> | <a href='/kalender'>Kalender</a></nav></template>
